@@ -1,0 +1,24 @@
+.content {
+    grid-area: c;
+    background-color: rgb(190, 156, 95);
+    margin-left: 20px;
+    border-radius: 20px;
+
+
+}
+
+.fon img { 
+    height: 100px;
+    width: 100%;
+}
+
+.avatardescrition img {
+    height: 100px;
+    width: 100px;
+}
+
+/* Info */
+
+.description {
+    padding: 10px;
+}

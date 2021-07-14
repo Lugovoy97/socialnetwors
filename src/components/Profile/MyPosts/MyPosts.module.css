@@ -1,0 +1,25 @@
+.item {
+    color:greenyellow
+}
+
+.item img {
+    height: 100px;
+    width: 100px;
+}
+
+.h4 {
+    float: left;
+}
+
+.postsBlock {
+    padding: 10px;
+}
+
+.posts {
+    margin-top: 30px;
+}
+
+/* .newpostbutton {
+    height: 20px;
+    width: 100px;
+} */
